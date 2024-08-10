@@ -44,6 +44,5 @@ const nextConfig = {
     //   },
     // },
 }
-// (http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180607/5ac1bf58Ndefaac16.jpg)
 
 export default nextConfig
